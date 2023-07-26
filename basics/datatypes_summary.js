@@ -37,3 +37,5 @@ const myFunction2 = () => {
 myFunction2();
 
 console.log(typeof myFunction2);
+
+// Stack (Primitive),  Heap (Non-Primitive)
